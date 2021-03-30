@@ -1,0 +1,48 @@
+test/resource
+
+1.create feature file
+2.write gherkins
+3.run as feature
+4.get step defintions from console
+
+----------
+test/java
+
+1.create setp file under stepdefn pacakge
+2.paste the code
+
+---------
+main/java/pagaeobject
+
+create pageobject
+
+main/java/manager
+
+register page
+
+1.decalre class varible 
+2.create get method and create construttor
+
+------------
+
+intailze page factory in pageobject
+
+get pagefactory from other file
+get @findby and metods from other pageobject files
+
+
+---------------
+
+create contrctuctor in sterp def
+
+and create variable for text contect
+
+and get mtjo page
+
+-------------
+
+metion tag in configuration file
+
+run cucumber custom runner
+
+
